@@ -1,0 +1,43 @@
+body{
+  background-color: white;
+}
+
+.edt1{
+    padding-top: 10px;
+    padding-bottom:10px;
+    margin-top: 1cm;
+    margin-left: 6cm;
+    margin-right: 6cm;
+    text-align:center;
+    background-color: lightgreen;
+    font-family: inherit;:
+
+}
+h1{
+  font-size: large;
+}
+
+.edt2{
+  text-align: center;
+}
+.edt3{
+  background-color: lightgreen;
+  border-radius: 1cm;
+  text-align: center;
+}
+.edt4{
+  background-color: lightgreen;
+  border-radius: 1cm;
+  text-align: center;
+}
+.edt5{
+  background-color: lightgreen;
+  border-radius: 1cm;
+  text-align: center;
+}
+
+.edt6{
+  background-color: lightgreen;
+  border-radius: 1cm;
+  text-align: center;
+}
